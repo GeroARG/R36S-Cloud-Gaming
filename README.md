@@ -20,6 +20,10 @@ Portable AAA Gaming On Your R36S
 Stream demanding PC games directly from the cloud with low latency and high performance.
 </p>
 
+<br>
+
+<img src="https://media.tenor.com/9vRAkntogEMAAAAC/tf2-heavy.gif" width="70%">
+
 </div>
 
 ---
@@ -28,7 +32,7 @@ Stream demanding PC games directly from the cloud with low latency and high perf
 
 The goal of this project is to transform the **R36S** into a portable cloud gaming device capable of running modern AAA PC games through cloud streaming technology.
 
-Using a cloud-hosted virtual machine together with:
+Using:
 
 * ☁️ Google Cloud
 * 🌐 Tailscale
@@ -50,7 +54,7 @@ the R36S can stream games such as:
 
 <div align="center">
 
-```mermaid
+```mermaid id="nvv6kk"
 flowchart LR
 A[Google Cloud VM] --> B[Sunshine Host]
 B --> C[Tailscale Network]
@@ -79,9 +83,7 @@ D --> E[R36S Handheld]
 
 Create a new notebook instance inside Google Cloud.
 
-Click:
-
-> **New Notebook**
+> Click **New Notebook**
 
 ---
 
@@ -89,21 +91,29 @@ Click:
 
 Download the provided `.ipynb` notebook:
 
-```text
+```text id="7r0c4m"
 https://drive.google.com/file/d/1TO3Is-qrXugqUVFbtxN86XQ_eFqNdIBq/view?usp=sharing
 ```
 
-Then paste the contents into your Google Colab environment.
+Paste the notebook contents into your Google Colab environment.
 
 ---
 
 ## 3️⃣ Start The Virtual Machine
 
-Launch the VM and wait until the setup finishes loading.
+Launch the VM and wait until everything finishes loading.
 
 <img src="assets/18.png" width="100%">
 
 > The screenshot interface is currently in Spanish.
+
+---
+
+<div align="center">
+
+<img src="https://media.tenor.com/x8v1oNUOmg4AAAAd/dying-light-crane.gif" width="80%">
+
+</div>
 
 ---
 
@@ -156,6 +166,14 @@ Before starting the VM, install:
 
 ---
 
+<div align="center">
+
+<img src="https://media.tenor.com/0aXnK5w1QkAAAAAC/titanfall2.gif" width="75%">
+
+</div>
+
+---
+
 ## Wolfenstein II: The New Colossus
 
 <img src="assets/7.jpeg" width="100%">
@@ -189,6 +207,14 @@ Before starting the VM, install:
 ## Grand Theft Auto V
 
 <img src="assets/3.png" width="100%">
+
+---
+
+<div align="center">
+
+<img src="https://media.tenor.com/2roX3uxz_68AAAAC/gta5.gif" width="75%">
+
+</div>
 
 ---
 
@@ -228,6 +254,14 @@ Before starting the VM, install:
 
 ---
 
+<div align="center">
+
+<img src="https://media.tenor.com/mCYbkqJisSgAAAAC/tf2-engineer.gif" width="70%">
+
+</div>
+
+---
+
 # 🚧 Future Improvements
 
 * More handheld support
@@ -241,6 +275,12 @@ Before starting the VM, install:
 <div align="center">
 
 ### ⭐ If you like this project, consider giving it a star.
+
+<br>
+
+<img src="https://media.tenor.com/eYCFn0j5A0AAAAAC/team-fortress2.gif" width="70%">
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:1d4ed8,100:2563eb"/>
 
