@@ -20,7 +20,7 @@
 
 Stream high-end PC games directly from the cloud to your **R36S** using a low-latency game streaming setup.
 
-<div align="center"> <img src="assets/gifs/tf2-heavy.gif" width="60%"> </div>
+<div align="center"> <img src="assets/gifs/Parks And Recreation Wow GIF" width="60%"> </div>
 
 ---
 
