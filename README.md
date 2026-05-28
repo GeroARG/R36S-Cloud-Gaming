@@ -366,7 +366,7 @@ If you like this project, consider giving it a ⭐ on GitHub.
 
 <br><br>
 
-<img src="assets/gifs/star.gif" width="70%">
+<img src="assets/gifs/cat.gif" width="70%">
 
 <br><br>
 
