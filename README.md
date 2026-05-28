@@ -43,7 +43,7 @@ You can play demanding titles remotely with excellent performance and low latenc
 
 # ⚡ Streaming Architecture
 
-<img src="https://i.imgur.com/KJ5KQyC.png" width="100%">
+<img src="assets/gifs/Python.gif" width="100%">
 
 </div>
 
