@@ -22,7 +22,7 @@ Stream demanding PC games directly from the cloud with low latency and high perf
 
 <br>
 
-<img src="https://media.tenor.com/9vRAkntogEMAAAAC/tf2-heavy.gif" width="70%">
+<img src="https://media.tenor.com/7XqO4-zSp3gAAAAC/tf2-team-fortress2.gif" width="65%">
 
 </div>
 
@@ -54,7 +54,7 @@ the R36S can stream games such as:
 
 <div align="center">
 
-```mermaid id="nvv6kk"
+```mermaid id="6i3b9j"
 flowchart LR
 A[Google Cloud VM] --> B[Sunshine Host]
 B --> C[Tailscale Network]
@@ -91,7 +91,7 @@ Create a new notebook instance inside Google Cloud.
 
 Download the provided `.ipynb` notebook:
 
-```text id="7r0c4m"
+```text id="jlwm7m"
 https://drive.google.com/file/d/1TO3Is-qrXugqUVFbtxN86XQ_eFqNdIBq/view?usp=sharing
 ```
 
@@ -111,7 +111,7 @@ Launch the VM and wait until everything finishes loading.
 
 <div align="center">
 
-<img src="https://media.tenor.com/x8v1oNUOmg4AAAAd/dying-light-crane.gif" width="80%">
+<img src="https://media.tenor.com/2bSx4Wzt8WQAAAAC/tf2-spy.gif" width="60%">
 
 </div>
 
@@ -168,7 +168,7 @@ Before starting the VM, install:
 
 <div align="center">
 
-<img src="https://media.tenor.com/0aXnK5w1QkAAAAAC/titanfall2.gif" width="75%">
+<img src="https://media.tenor.com/6sJ7Q6K9n9AAAAAC/tf2-heavy.gif" width="60%">
 
 </div>
 
@@ -204,17 +204,17 @@ Before starting the VM, install:
 
 ---
 
-## Grand Theft Auto V
+<div align="center">
 
-<img src="assets/3.png" width="100%">
+<img src="https://media.tenor.com/kWJzL9XbLJ0AAAAC/tf2-engineer.gif" width="55%">
+
+</div>
 
 ---
 
-<div align="center">
+## Grand Theft Auto V
 
-<img src="https://media.tenor.com/2roX3uxz_68AAAAC/gta5.gif" width="75%">
-
-</div>
+<img src="assets/3.png" width="100%">
 
 ---
 
@@ -256,7 +256,7 @@ Before starting the VM, install:
 
 <div align="center">
 
-<img src="https://media.tenor.com/mCYbkqJisSgAAAAC/tf2-engineer.gif" width="70%">
+<img src="https://media.tenor.com/HN5ovTjB9S8AAAAC/team-fortress2-soldier.gif" width="65%">
 
 </div>
 
@@ -278,7 +278,7 @@ Before starting the VM, install:
 
 <br>
 
-<img src="https://media.tenor.com/eYCFn0j5A0AAAAAC/team-fortress2.gif" width="70%">
+<img src="https://media.tenor.com/Bpnw5Rpw4x4AAAAC/team-fortress2.gif" width="70%">
 
 <br><br>
 
