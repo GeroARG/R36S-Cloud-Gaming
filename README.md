@@ -123,7 +123,7 @@ Before starting the VM, install:
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%">
+<img src="assets/gifs/IronMan.gif" width="100%">
 
 <br><br>
 
