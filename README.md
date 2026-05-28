@@ -2,12 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:1d4ed8,100:2563eb&text=R36S%20Cloud%20Gaming&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Portable%20AAA%20Gaming%20Powered%20By%20The%20Cloud&descAlignY=58"/>
 
-<br>
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1zM2F1OHJrbjNmbmZ2aHh3eGJ3d2x0aWJ0NnlxNHJvNWNxanM2eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif" width="100%">
-
-<br><br>
-
 <p align="center">
 <img src="https://img.shields.io/badge/Platform-R36S-2563eb?style=for-the-badge">
 <img src="https://img.shields.io/badge/OS-LineageOS-0f766e?style=for-the-badge">
