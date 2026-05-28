@@ -1,82 +1,67 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:1d4ed8,100:2563eb&text=R36S%20Cloud%20Gaming&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Portable%20AAA%20Gaming%20Powered%20By%20The%20Cloud&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,50:1d4ed8,100:7c3aed&text=R36S%20Cloud%20Gaming&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AAA%20Gaming%20In%20Your%20Pocket&descAlignY=58"/>
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-R36S-2563eb?style=for-the-badge">
-  <img src="https://img.shields.io/badge/OS-LineageOS-059669?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Streaming-Moonlight-7c3aed?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Host-Sunshine-f59e0b?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Cloud-Google_Cloud-0284c7?style=for-the-badge">
+  <img src="https://img.shields.io/badge/R36S-Handheld-2563eb?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cloud-Gaming-1d4ed8?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Moonlight-Streaming-7c3aed?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Sunshine-Host-f59e0b?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tailscale-VPN-0284c7?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LineageOS-Supported-059669?style=for-the-badge">
 </p>
 
 <h3>
-🎮 Portable AAA Gaming On Your R36S
+🎮 Portable Cloud Gaming For The R36S
 </h3>
 
 <p>
-Transform your handheld console into a cloud gaming machine capable of streaming modern PC games with low latency and high performance.
+Run modern AAA PC games directly from the cloud with low latency, smooth streaming and full handheld portability.
 </p>
 
 <br>
 
-<img src="assets/gifs/WOW.gif" width="65%">
+<img src="assets/gifs/WOW.gif" width="70%">
+
+<br><br>
+
+<img src="assets/gifs/tf2-heavy.gif" width="45%">
 
 </div>
 
 ---
 
-# 📚 Table Of Contents
+# 🌌 Overview
 
-* Overview
-* Features
-* Streaming Architecture
-* Technology Stack
-* Installation Guide
-* Requirements
-* Supported Operating Systems
-* Cloud Specifications
-* Game Showcase
-* Future Improvements
+The goal of this project is to transform the **R36S** into a portable cloud gaming machine capable of streaming demanding modern PC games using a cloud-hosted virtual machine.
 
----
-
-# 📖 Overview
-
-This project aims to turn the **R36S** into a fully functional cloud gaming handheld using a remote virtual machine and game streaming technologies.
-
-Using:
+Powered by:
 
 * ☁️ Google Cloud
 * 🌐 Tailscale
 * 🎥 Sunshine
 * 📱 Moonlight
 
-you can remotely stream demanding AAA PC games directly onto your handheld console.
-
-Supported games include:
-
-* Grand Theft Auto V
-* DOOM Eternal
-* Titanfall 2
-* Wolfenstein II
-* Resident Evil 2 Remake
-* Forza Horizon 4
-* Batman: Arkham Knight
-* Devil May Cry 5
+this setup allows you to play high-end PC titles directly from your handheld console almost anywhere.
 
 ---
 
 # ✨ Features
 
-✅ Low latency game streaming
-✅ Portable AAA gaming experience
-✅ Cloud-powered virtual machine
-✅ Optimized for LineageOS
-✅ Tesla T4 GPU acceleration
-✅ Easy deployment using Google Colab
+<div align="center">
+
+| Feature            | Description                      |
+| :----------------- | :------------------------------- |
+| 🎮 AAA Streaming   | Play demanding PC games remotely |
+| ⚡ Low Latency      | Smooth Moonlight streaming       |
+| ☁️ Cloud Powered   | Google Cloud VM hosting          |
+| 📱 Portable        | Full handheld gaming experience  |
+| 🚀 GPU Accelerated | NVIDIA Tesla T4                  |
+| 🔧 Customizable    | Easy to modify and improve       |
+
+</div>
 
 ---
 
@@ -88,7 +73,7 @@ Supported games include:
 
 </div>
 
-```mermaid id="dr5f3g"
+```mermaid id="rq3m7z"
 flowchart LR
 A[Google Cloud VM] --> B[Sunshine Host]
 B --> C[Tailscale VPN]
@@ -104,7 +89,7 @@ D --> E[R36S Handheld]
 | :--------------- | :------------------------------- |
 | **Google Cloud** | Hosts the gaming virtual machine |
 | **Sunshine**     | Streams the desktop and games    |
-| **Moonlight**    | Streaming client for the R36S    |
+| **Moonlight**    | Streaming client for R36S        |
 | **Tailscale**    | Secure VPN networking            |
 
 ---
@@ -115,17 +100,15 @@ D --> E[R36S Handheld]
 
 Create a new notebook instance inside Google Cloud.
 
-After opening the dashboard, click:
-
-> **New Notebook**
+> Click **New Notebook**
 
 ---
 
 ## 2️⃣ Import The Notebook File
 
-Download the provided `.ipynb` notebook:
+Download the `.ipynb` notebook:
 
-```text id="wyyfpk"
+```text id="7vlwqa"
 https://drive.google.com/file/d/1TO3Is-qrXugqUVFbtxN86XQ_eFqNdIBq/view?usp=sharing
 ```
 
@@ -135,17 +118,17 @@ Then paste the notebook contents into your Google Colab environment.
 
 ## 3️⃣ Start The Virtual Machine
 
-Launch the virtual machine and wait until the environment finishes loading.
+Launch the VM and wait until the environment finishes loading.
 
 <img src="assets/18.png" width="100%">
 
-> Note: The screenshot interface is currently in Spanish.
+> The screenshot interface is currently in Spanish.
 
 ---
 
 <div align="center">
 
-<img src="assets/gifs/engineer.gif" width="50%">
+<img src="assets/gifs/engineer.gif" width="45%">
 
 </div>
 
@@ -153,12 +136,16 @@ Launch the virtual machine and wait until the environment finishes loading.
 
 # ⚠️ Requirements
 
-Before starting the VM, install the following applications:
+Before starting the VM, install:
+
+<div align="center">
 
 | Application | Required |
 | :---------- | :------: |
 | Tailscale   |     ✅    |
 | Sunshine    |     ✅    |
+
+</div>
 
 ---
 
@@ -172,11 +159,11 @@ Before starting the VM, install the following applications:
 
 ---
 
-# 💻 Cloud Machine Specifications
+# 💻 Cloud Specifications
 
 <div align="center">
 
-<img src="assets/gifs/computer.gif" width="60%">
+<img src="assets/gifs/computer.gif" width="65%">
 
 </div>
 
@@ -284,9 +271,75 @@ Before starting the VM, install the following applications:
 
 ---
 
+## 🧊 Cyberpunk 2077
+
+<img src="assets/cyberpunk.jpg" width="100%">
+
+---
+
+## 🕷️ Marvel's Spider-Man Remastered
+
+<img src="assets/spiderman.jpg" width="100%">
+
+---
+
+## ⚔️ Elden Ring
+
+<img src="assets/eldenring.jpg" width="100%">
+
 <div align="center">
 
 <img src="assets/gifs/tf2-spy.gif" width="45%">
+
+</div>
+
+---
+
+## 🌌 Red Dead Redemption 2
+
+<img src="assets/rdr2.jpg" width="100%">
+
+---
+
+## ☢️ Fallout 4
+
+<img src="assets/fallout4.jpg" width="100%">
+
+---
+
+## 🧟 Dying Light
+
+<img src="assets/dyinglight.jpg" width="100%">
+
+<div align="center">
+
+<img src="assets/gifs/dyinglight.gif" width="55%">
+
+</div>
+
+---
+
+## 🚀 Halo Infinite
+
+<img src="assets/haloinfinite.jpg" width="100%">
+
+---
+
+## 🔫 Call Of Duty: Modern Warfare
+
+<img src="assets/mw.jpg" width="100%">
+
+---
+
+## 🧪 Half-Life 2
+
+<img src="assets/hl2.jpg" width="100%">
+
+---
+
+<div align="center">
+
+<img src="assets/gifs/tf2-engineer.gif" width="40%">
 
 </div>
 
@@ -297,24 +350,30 @@ Before starting the VM, install the following applications:
 * Additional handheld support
 * ArkOS compatibility
 * Easier setup process
-* Better streaming optimization
 * Automatic deployment scripts
-* Custom launcher support
+* Better latency optimization
+* Steam Big Picture integration
+* Remote launcher support
+* Performance presets
 
 ---
 
 # ⭐ Support The Project
 
-If you enjoy this project, consider giving it a star on GitHub.
-
 <div align="center">
 
-<br>
+If you like this project, consider giving it a ⭐ on GitHub.
+
+<br><br>
 
 <img src="assets/gifs/star.gif" width="70%">
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:1d4ed8,100:2563eb"/>
+<img src="assets/gifs/tf2-soldier.gif" width="45%">
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,50:1d4ed8,100:7c3aed"/>
 
 </div>
