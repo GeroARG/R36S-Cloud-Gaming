@@ -273,7 +273,7 @@ Before starting the VM, install:
 
 ## 🧊 Cyberpunk 2077
 
-<img src="assets/cyberpunk.jpg" width="100%">
+<img src="assets/cyberpunk2077.jpg" width="100%">
 
 ---
 
@@ -285,7 +285,7 @@ Before starting the VM, install:
 
 ## ⚔️ Elden Ring
 
-<img src="assets/eldenring.jpg" width="100%">
+<img src="assets/eldenringg.jpeg" width="100%">
 
 <div align="center">
 
