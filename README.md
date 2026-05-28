@@ -370,7 +370,7 @@ If you like this project, consider giving it a ⭐ on GitHub.
 
 <br><br>
 
-<img src="assets/gifs/tf2-soldier.gif" width="45%">
+<img src="assets/gifs/star.gif" width="45%">
 
 <br><br>
 
