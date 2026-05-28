@@ -66,8 +66,6 @@ You can play demanding titles remotely with excellent performance and low latenc
 
 Create a new notebook instance inside Google Cloud.
 
-<img src="assets/gifs/IronMan.gif" width="100%">
-
 After opening the dashboard, click:
 
 > **New Notebook**
