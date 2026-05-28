@@ -2,44 +2,99 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:1d4ed8,100:2563eb&text=R36S%20Cloud%20Gaming&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Portable%20AAA%20Gaming%20Powered%20By%20The%20Cloud&descAlignY=58"/>
 
+<br>
+
 <p align="center">
-<img src="https://img.shields.io/badge/Platform-R36S-2563eb?style=for-the-badge">
-<img src="https://img.shields.io/badge/OS-LineageOS-0f766e?style=for-the-badge">
-<img src="https://img.shields.io/badge/Streaming-Moonlight-7c3aed?style=for-the-badge">
-<img src="https://img.shields.io/badge/Host-Sunshine-f59e0b?style=for-the-badge">
-<img src="https://img.shields.io/badge/Cloud-Google_Cloud-0284c7?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Platform-R36S-2563eb?style=for-the-badge">
+  <img src="https://img.shields.io/badge/OS-LineageOS-059669?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Streaming-Moonlight-7c3aed?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Host-Sunshine-f59e0b?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cloud-Google_Cloud-0284c7?style=for-the-badge">
 </p>
 
-### 🎮 Portable AAA Gaming On A Handheld Console
+<h3>
+🎮 Portable AAA Gaming On Your R36S
+</h3>
 
-Stream high-end PC games directly from the cloud to your **R36S** using a low-latency game streaming setup.
+<p>
+Transform your handheld console into a cloud gaming machine capable of streaming modern PC games with low latency and high performance.
+</p>
 
-<div align="center"> <img src="assets/gifs/WOW.gif" width="60%"> </div>
+<br>
+
+<img src="assets/gifs/WOW.gif" width="65%">
+
+</div>
+
+---
+
+# 📚 Table Of Contents
+
+* Overview
+* Features
+* Streaming Architecture
+* Technology Stack
+* Installation Guide
+* Requirements
+* Supported Operating Systems
+* Cloud Specifications
+* Game Showcase
+* Future Improvements
 
 ---
 
 # 📖 Overview
 
-The purpose of this project is to transform the **R36S** into a portable cloud gaming device capable of running modern AAA games through a cloud-hosted virtual machine.
+This project aims to turn the **R36S** into a fully functional cloud gaming handheld using a remote virtual machine and game streaming technologies.
 
-Using technologies like:
+Using:
 
 * ☁️ Google Cloud
 * 🌐 Tailscale
 * 🎥 Sunshine
 * 📱 Moonlight
 
-You can play demanding titles remotely with excellent performance and low latency.
+you can remotely stream demanding AAA PC games directly onto your handheld console.
+
+Supported games include:
+
+* Grand Theft Auto V
+* DOOM Eternal
+* Titanfall 2
+* Wolfenstein II
+* Resident Evil 2 Remake
+* Forza Horizon 4
+* Batman: Arkham Knight
+* Devil May Cry 5
 
 ---
 
-<div align="center">
+# ✨ Features
+
+✅ Low latency game streaming
+✅ Portable AAA gaming experience
+✅ Cloud-powered virtual machine
+✅ Optimized for LineageOS
+✅ Tesla T4 GPU acceleration
+✅ Easy deployment using Google Colab
+
+---
 
 # ⚡ Streaming Architecture
+
+<div align="center">
 
 <img src="assets/gifs/Python.gif" width="100%">
 
 </div>
+
+```mermaid id="dr5f3g"
+flowchart LR
+A[Google Cloud VM] --> B[Sunshine Host]
+B --> C[Tailscale VPN]
+C --> D[Moonlight Client]
+D --> E[R36S Handheld]
+```
 
 ---
 
@@ -49,8 +104,8 @@ You can play demanding titles remotely with excellent performance and low latenc
 | :--------------- | :------------------------------- |
 | **Google Cloud** | Hosts the gaming virtual machine |
 | **Sunshine**     | Streams the desktop and games    |
-| **Moonlight**    | Client used on the R36S          |
-| **Tailscale**    | Secure VPN connection            |
+| **Moonlight**    | Streaming client for the R36S    |
+| **Tailscale**    | Secure VPN networking            |
 
 ---
 
@@ -68,9 +123,9 @@ After opening the dashboard, click:
 
 ## 2️⃣ Import The Notebook File
 
-Download the `.ipynb` notebook below:
+Download the provided `.ipynb` notebook:
 
-```text
+```text id="wyyfpk"
 https://drive.google.com/file/d/1TO3Is-qrXugqUVFbtxN86XQ_eFqNdIBq/view?usp=sharing
 ```
 
@@ -80,26 +135,30 @@ Then paste the notebook contents into your Google Colab environment.
 
 ## 3️⃣ Start The Virtual Machine
 
-Launch the virtual machine and wait until the setup finishes loading.
+Launch the virtual machine and wait until the environment finishes loading.
 
 <img src="assets/18.png" width="100%">
 
-> The interface shown in the screenshot is currently in Spanish.
+> Note: The screenshot interface is currently in Spanish.
+
+---
+
+<div align="center">
+
+<img src="assets/gifs/engineer.gif" width="50%">
+
+</div>
 
 ---
 
 # ⚠️ Requirements
 
-Before starting the VM, install:
-
-<div align="center">
+Before starting the VM, install the following applications:
 
 | Application | Required |
 | :---------- | :------: |
 | Tailscale   |     ✅    |
 | Sunshine    |     ✅    |
-
-</div>
 
 ---
 
@@ -115,13 +174,15 @@ Before starting the VM, install:
 
 # 💻 Cloud Machine Specifications
 
-<div align="center"> <img src="assets/gifs/computer.gif" width="60%"> </div>
+<div align="center">
 
-|       GPU       |               CPU              |    RAM   | Operating System |
-| :-------------: | :----------------------------: | :------: | :--------------: |
-| NVIDIA Tesla T4 | Intel Xeon<br>2 Cores @ 2.0GHz | 12.67 GB |    Tiny10 LTS    |
+<img src="assets/gifs/computer.gif" width="60%">
 
 </div>
+
+|       GPU       |             CPU             |    RAM   | Operating System |
+| :-------------: | :-------------------------: | :------: | :--------------: |
+| NVIDIA Tesla T4 | Intel Xeon 2 Cores @ 2.0GHz | 12.67 GB |    Tiny10 LTS    |
 
 ---
 
@@ -142,6 +203,12 @@ Before starting the VM, install:
 ## 🤖 Titanfall 2
 
 <img src="assets/6.jpeg" width="100%">
+
+<div align="center">
+
+<img src="assets/gifs/tf2-heavy.gif" width="45%">
+
+</div>
 
 ---
 
@@ -217,25 +284,34 @@ Before starting the VM, install:
 
 ---
 
+<div align="center">
+
+<img src="assets/gifs/tf2-spy.gif" width="45%">
+
+</div>
+
+---
+
 # 🚧 Future Improvements
 
 * Additional handheld support
 * ArkOS compatibility
-* Automatic deployment scripts
+* Easier setup process
 * Better streaming optimization
-* Easier installation process
+* Automatic deployment scripts
+* Custom launcher support
 
 ---
 
+# ⭐ Support The Project
+
+If you enjoy this project, consider giving it a star on GitHub.
+
 <div align="center">
-
-## ⭐ Support The Project
-
-If you like this project, consider giving it a star on GitHub.
 
 <br>
 
-<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="100%">
+<img src="assets/gifs/star.gif" width="70%">
 
 <br><br>
 
