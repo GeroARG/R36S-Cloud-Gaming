@@ -121,9 +121,10 @@ Before starting the VM, install:
 
 # 💻 Cloud Machine Specifications
 
-<div align="center">
+<div>
 
 <img src="assets/gifs/IronMan.gif" width="100%">
+</div>
 
 <br><br>
 
