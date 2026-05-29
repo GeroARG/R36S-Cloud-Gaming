@@ -120,10 +120,6 @@ Then paste the notebook contents into your Google Colab environment.
 
 Launch the VM and wait until the environment finishes loading.
 
-<img src="assets/18.png" width="100%">
-
-> The screenshot interface is currently in Spanish.
-
 ---
 
 <div align="center">
