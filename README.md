@@ -18,7 +18,7 @@
 </h3>
 
 <p>
-Run modern AAA PC games directly from the cloud with low latency, smooth streaming and full handheld portability.
+Run your Steam games directly onto your R36S Handheld!
 </p>
 
 <br>
