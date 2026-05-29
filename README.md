@@ -142,8 +142,8 @@ Before starting the VM, install:
 
 | Application | Required |
 | :---------- | :------: |
-| Tailscale   |     ✅    |
-| Sunshine    |     ✅    |
+| Tailscale   |     Yes  |
+| Sunshine    |     Yes  |
 
 </div>
 
