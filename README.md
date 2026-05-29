@@ -343,11 +343,9 @@ Before starting the VM, install:
 
 ---
 
-<div align="center">
+## Hollow Knight (Android and PC)
 
-<img src="assets/gifs/tf2-engineer.gif" width="40%">
-
-</div>
+<img src="assets/hollowknight.jpg" width="100%">
 
 ---
 
