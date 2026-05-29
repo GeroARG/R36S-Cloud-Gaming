@@ -117,6 +117,7 @@ Go to "Execution enviorment", Then, go to "Change Runtime Envirorment Type" and 
 ## Starting the VM
 
 Good, now that you changed the machine runtime to GPU T4 we will now be able to play games, to start the machine runtime and start playing, put in the button that says "Connect" and then run the code.
+---
 <img width="193" height="40" alt="image" src="https://github.com/user-attachments/assets/4c43695e-a703-465d-a86c-764e84af8572" />
 <img width="37" height="40" alt="image" src="https://github.com/user-attachments/assets/3176bd42-411d-41de-b50e-1eddbe678fe2" />
 
