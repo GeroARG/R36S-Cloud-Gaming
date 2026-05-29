@@ -33,39 +33,39 @@ Run your Steam games directly onto your R36S Handheld!
 
 ---
 
-# 🌌 Overview
+# Overview
 
 The goal of this project is to transform the **R36S** into a portable cloud gaming machine capable of streaming demanding modern PC games using a cloud-hosted virtual machine.
 
 Powered by:
 
-* ☁️ Google Cloud
-* 🌐 Tailscale
-* 🎥 Sunshine
-* 📱 Moonlight
+* Google Cloud (Creates VM)
+* Tailscale (Connects via VPN both Google Cloud VM and R36S Handheld)
+* Sunshine (Streams The PC Image and Connects it)
+* Moonlight (Allows you to control the Machine)
 
 this setup allows you to play high-end PC titles directly from your handheld console almost anywhere.
 
 ---
 
-# ✨ Features
+# Features
 
 <div align="center">
 
 | Feature            | Description                      |
 | :----------------- | :------------------------------- |
-| 🎮 AAA Streaming   | Play demanding PC games remotely |
-| ⚡ Low Latency      | Smooth Moonlight streaming       |
-| ☁️ Cloud Powered   | Google Cloud VM hosting          |
-| 📱 Portable        | Full handheld gaming experience  |
-| 🚀 GPU Accelerated | NVIDIA Tesla T4                  |
-| 🔧 Customizable    | Easy to modify and improve       |
+| AAA Streaming   | Play demanding PC games remotely |
+| Low Latency      | Smooth Moonlight streaming       |
+| Cloud Powered   | Google Cloud VM hosting          |
+| Portable        | Full handheld gaming experience  |
+| GPU Accelerated | NVIDIA Tesla T4                  |
+| Customizable    | Easy to modify and improve       |
 
 </div>
 
 ---
 
-# ⚡ Streaming Architecture
+# Streaming Architecture
 
 <div align="center">
 
@@ -83,7 +83,7 @@ D --> E[R36S Handheld]
 
 ---
 
-# 🛠 Technology Stack
+# Technology Stack
 
 | Component        | Purpose                          |
 | :--------------- | :------------------------------- |
@@ -134,7 +134,7 @@ Launch the VM and wait until the environment finishes loading.
 
 ---
 
-# ⚠️ Requirements
+# Requirements
 
 Before starting the VM, install:
 
@@ -153,9 +153,9 @@ Before starting the VM, install:
 
 | Status        | Operating System |
 | :------------ | :--------------- |
-| ✅ Supported   | LineageOS        |
-| ❌ Unsupported | ArkOS            |
-| ❌ Unsupported | DarkOS           |
+| Supported   | LineageOS        |
+| Unsupported | ArkOS            |
+| Unsupported | DarkOS           |
 
 ---
 
