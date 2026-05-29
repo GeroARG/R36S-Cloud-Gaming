@@ -163,7 +163,6 @@ Before starting the VM, install:
 
 <div align="center">
 
-<img src="assets/gifs/computer.gif" width="100%">
 
 </div>
 
@@ -171,6 +170,7 @@ Before starting the VM, install:
   | :-------------: | :-------------------------: | :------: | :--------------: |
   | NVIDIA Tesla T4 | Intel Xeon 2 Cores @ 2.0GHz | 12.67 GB |    Ubuntu LTS    |
 
+<img src="assets/gifs/computer.gif" width="65%">
 ---
 
 # Game Showcase
