@@ -104,15 +104,14 @@ Create a new notebook instance inside Google Cloud.
 
 ---
 
-##  Import The Notebook File
+##  Change the machine runtime (IMPORTANT)
 
-Download the `.ipynb` notebook:
-
-```text id="7vlwqa"
-https://drive.google.com/file/d/1TO3Is-qrXugqUVFbtxN86XQ_eFqNdIBq/view?usp=sharing
-```
-
-Then paste the notebook contents into your Google Colab environment.
+In this step, we will be changing the machine runtime to GPU T4, this is a gpu that we are going to use to play games, so follow this step correctly.
+Go to "Execution enviorment"
+<img width="736" height="601" alt="image" src="https://github.com/user-attachments/assets/8ce0c74c-40b4-48fa-8396-7101a7a4dbf2" />
+Then, go to "Change Runtime Envirorment Type"
+<img width="561" height="559" alt="image" src="https://github.com/user-attachments/assets/aa6948e1-282b-4ca3-a44c-d27cd1978f6b" />
+Then select "GPU T4" and click "Keep"
 
 ---
 
