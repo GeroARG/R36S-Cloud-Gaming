@@ -94,9 +94,9 @@ D --> E[R36S Handheld]
 
 ---
 
-# ⚙️ Installation Guide
+# Installation Guide
 
-## 1️⃣ Create A Google Cloud Notebook
+## Create A Google Cloud Notebook
 
 Create a new notebook instance inside Google Cloud.
 
@@ -104,7 +104,7 @@ Create a new notebook instance inside Google Cloud.
 
 ---
 
-## 2️⃣ Import The Notebook File
+##  Import The Notebook File
 
 Download the `.ipynb` notebook:
 
@@ -116,7 +116,7 @@ Then paste the notebook contents into your Google Colab environment.
 
 ---
 
-## 3️⃣ Start The Virtual Machine
+## Start The Virtual Machine
 
 Launch the VM and wait until the environment finishes loading.
 
@@ -149,7 +149,7 @@ Before starting the VM, install:
 
 ---
 
-# 📱 Supported Operating Systems
+# Supported Operating Systems
 
 | Status        | Operating System |
 | :------------ | :--------------- |
@@ -159,7 +159,7 @@ Before starting the VM, install:
 
 ---
 
-# 💻 Cloud Specifications
+# Cloud Specifications
 
 <div align="center">
 
@@ -173,7 +173,7 @@ Before starting the VM, install:
 
 ---
 
-# 🎮 Game Showcase
+# Game Showcase
 
 ## 🔥 DOOM Eternal
 
