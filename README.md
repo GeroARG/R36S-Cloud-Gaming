@@ -14,7 +14,7 @@
 </p>
 
 <h3>
-🎮 Portable Cloud Gaming For The R36S
+Portable Cloud Gaming For The R36S
 </h3>
 
 <p>
@@ -369,6 +369,10 @@ Before starting the VM, install:
 If you like this project, consider giving it a ⭐ on GitHub.
 
 <br><br>
+
+# Frequently Asked Questions (FAQ)
+A: How can I play these games on my Handheld?
+B: You will have to install Lineage OS on a separate SD Card or the one you own, also you need a wifi dongle and the moonlight and tailscale apk's, You can find them both on the internet.
 
 <img src="assets/gifs/cat.gif" width="70%">
 
