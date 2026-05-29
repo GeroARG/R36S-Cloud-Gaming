@@ -107,11 +107,11 @@ Create a new notebook instance inside Google Cloud.
 ##  Change the machine runtime (IMPORTANT)
 
 In this step, we will be changing the machine runtime to GPU T4, this is a gpu that we are going to use to play games, so follow this step correctly.
-Go to "Execution enviorment"
+Go to "Execution enviorment", Then, go to "Change Runtime Envirorment Type" and click "Keep"
 <img width="736" height="601" alt="image" src="https://github.com/user-attachments/assets/8ce0c74c-40b4-48fa-8396-7101a7a4dbf2" />
 Then, go to "Change Runtime Envirorment Type"
 <img width="561" height="559" alt="image" src="https://github.com/user-attachments/assets/aa6948e1-282b-4ca3-a44c-d27cd1978f6b" />
-Then select "GPU T4" and click "Keep"
+
 
 ---
 
