@@ -167,9 +167,9 @@ Before starting the VM, install:
 
 </div>
 
-|       GPU       |             CPU             |    RAM   | Operating System |
-| :-------------: | :-------------------------: | :------: | :--------------: |
-| NVIDIA Tesla T4 | Intel Xeon 2 Cores @ 2.0GHz | 12.67 GB |    Ubuntu LTS    |
+  |       GPU       |             CPU             |    RAM   | Operating System |
+  | :-------------: | :-------------------------: | :------: | :--------------: |
+  | NVIDIA Tesla T4 | Intel Xeon 2 Cores @ 2.0GHz | 12.67 GB |    Ubuntu LTS    |
 
 ---
 
