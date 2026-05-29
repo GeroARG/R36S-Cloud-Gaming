@@ -163,7 +163,7 @@ Before starting the VM, install:
 
 <div align="center">
 
-<img src="assets/gifs/computer.gif" width="65%">
+<img src="assets/gifs/computer.gif" width="100%">
 
 </div>
 
