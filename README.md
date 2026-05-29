@@ -337,6 +337,12 @@ Before starting the VM, install:
 
 ---
 
+## Fallout 76
+
+<img src="assets/fallout76.jpg" width="100%">
+
+---
+
 <div align="center">
 
 <img src="assets/gifs/tf2-engineer.gif" width="40%">
