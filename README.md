@@ -375,6 +375,8 @@ A: How can I play these games on my Handheld?
 B: You will have to install Lineage OS on a separate SD Card or the one you own, also you need a wifi dongle and the moonlight and tailscale apk's, You can find them both on the internet.
 A: Is the project safe?
 B: Yes, the VM is created in Google Colab (Google Cloud) so there will be no major problem.
+A: Are the APK's safe?
+B: Yes, as long as you watch out from where you are downloading it.
 
 <img src="assets/gifs/cat.gif" width="70%">
 
