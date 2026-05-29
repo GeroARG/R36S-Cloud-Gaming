@@ -175,19 +175,19 @@ Before starting the VM, install:
 
 # Game Showcase
 
-## 🔥 DOOM Eternal
+## DOOM Eternal
 
 <img src="assets/4.jpeg" width="100%">
 
 ---
 
-## ⚔️ Metal Gear Solid V: The Phantom Pain
+## Metal Gear Solid V: The Phantom Pain
 
 <img src="assets/5.png" width="100%">
 
 ---
 
-## 🤖 Titanfall 2
+## Titanfall 2
 
 <img src="assets/6.jpeg" width="100%">
 
@@ -199,91 +199,91 @@ Before starting the VM, install:
 
 ---
 
-## 🐺 Wolfenstein II: The New Colossus
+## Wolfenstein II: The New Colossus
 
 <img src="assets/7.jpeg" width="100%">
 
 ---
 
-## 🎯 Sniper Elite 4
+## Sniper Elite 4
 
 <img src="assets/8.jpeg" width="100%">
 
 ---
 
-## 🚗 Mad Max
+## Mad Max
 
 <img src="assets/10.jpeg" width="100%">
 
 ---
 
-## 🦇 Batman: Arkham Knight
+## Batman: Arkham Knight
 
 <img src="assets/9.jpeg" width="100%">
 
 ---
 
-## 🏹 Rise of the Tomb Raider
+## Rise of the Tomb Raider
 
 <img src="assets/11.jpeg" width="100%">
 
 ---
 
-## 🚓 Grand Theft Auto V
+## Grand Theft Auto V
 
 <img src="assets/3.png" width="100%">
 
 ---
 
-## 👽 Alien: Isolation
+## Alien: Isolation
 
 <img src="assets/12.jpeg" width="100%">
 
 ---
 
-## 🧟 Resident Evil 2 Remake
+## Resident Evil 2 Remake
 
 <img src="assets/13.jpeg" width="100%">
 
 ---
 
-## ⚔️ Devil May Cry 5
+## Devil May Cry 5
 
 <img src="assets/14.jpeg" width="100%">
 
 ---
 
-## 🌊 BioShock Infinite
+## BioShock Infinite
 
 <img src="assets/15.jpeg" width="100%">
 
 ---
 
-## 🔥 Hades
+## Hades
 
 <img src="assets/16.jpeg" width="100%">
 
 ---
 
-## 🏎️ Forza Horizon 4
+## Forza Horizon 4
 
 <img src="assets/17.jpeg" width="100%">
 
 ---
 
-## 🧊 Cyberpunk 2077
+## Cyberpunk 2077
 
 <img src="assets/cyberpunk2077.jpg" width="100%">
 
 ---
 
-## 🕷️ Marvel's Spider-Man Remastered
+## Marvel's Spider-Man Remastered
 
 <img src="assets/spiderman.jpg" width="100%">
 
 ---
 
-## ⚔️ Elden Ring
+## Elden Ring
 
 <img src="assets/eldenringg.jpeg" width="100%">
 
@@ -295,19 +295,19 @@ Before starting the VM, install:
 
 ---
 
-## 🌌 Red Dead Redemption 2
+## Red Dead Redemption 2
 
 <img src="assets/rdr2.jpg" width="100%">
 
 ---
 
-## ☢️ Fallout 4
+## Fallout 4
 
 <img src="assets/fallout4.jpg" width="100%">
 
 ---
 
-## 🧟 Dying Light
+## Dying Light
 
 <img src="assets/dyinglight.jpg" width="100%">
 
@@ -319,19 +319,19 @@ Before starting the VM, install:
 
 ---
 
-## 🚀 Halo Infinite
+## Halo Infinite
 
 <img src="assets/haloinfinite.jpg" width="100%">
 
 ---
 
-## 🔫 Call Of Duty: Modern Warfare
+## Call Of Duty: Modern Warfare
 
 <img src="assets/mw.jpg" width="100%">
 
 ---
 
-## 🧪 Half-Life 2
+## Half-Life 2
 
 <img src="assets/hl2.jpg" width="100%">
 
@@ -345,7 +345,7 @@ Before starting the VM, install:
 
 ---
 
-# 🚧 Future Improvements
+# Future Improvements
 
 * Additional handheld support
 * ArkOS compatibility
